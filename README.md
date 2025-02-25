@@ -19,3 +19,6 @@ Virtual Networks(VNets), Subnets, Azure CDN FrontDoor, Service Plan com Web APP,
 
 1 Private DNS Zone: Configurada para resolver nomes de domínio privados, linkada à VNet do Private Endpoint e à VNet do Service Plan.
 
+Cenário de Uso:
+Uma empresa de e-commerce precisa de uma infraestrutura escalável, segura e de alta disponibilidade para hospedar seu site e gerenciar seu banco de dados. O projeto Terraform proposto é ideal para atender a essa demanda.
+
