@@ -22,13 +22,18 @@ Virtual Networks(VNets), Subnets, Azure CDN FrontDoor, Service Plan com Web APP,
 
 Fluxo de Funcionamento
 Acesso ao Site:
+
 O usuário acessa o site através do Azure Front Door, que roteia o tráfego para o Web App hospedado na subnet da VNet do Service Plan.
 Conexão ao Banco de Dados:
+
 O Web App se conecta ao SQL Database através do Private Endpoint, garantindo que o tráfego permaneça dentro da rede privada.
 Resolução de Nomes:
+
 A Private DNS Zone resolve o nome do banco de dados para o IP privado do Private Endpoint, garantindo que a comunicação seja segura e eficiente.
+
 Ambiente de Testes:
 As VMs de não produção são usadas para testar novas funcionalidades ou atualizações antes de serem implementadas no ambiente de produção.
+
 
 Cenário de Uso:
 
