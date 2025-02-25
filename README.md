@@ -21,6 +21,7 @@ Virtual Networks(VNets), Subnets, Azure CDN FrontDoor, Service Plan com Web APP,
 
 
 Fluxo de Funcionamento.
+
 Acesso ao Site:
 
 O usuário acessa o site através do Azure Front Door, que roteia o tráfego para o Web App hospedado na subnet da VNet do Service Plan.
