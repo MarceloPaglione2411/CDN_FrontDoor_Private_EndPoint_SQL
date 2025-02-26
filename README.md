@@ -1,10 +1,9 @@
-GITEA_TOKEN=""
 # CDN_FrontDoor_Private_EndPoint_SQL
-Infra Estrutura com CDN FrontDoor global, Web App com conexão via Private Endpoint e SQL Server.
+##Infra Estrutura com CDN FrontDoor global, Web App com conexão via Private Endpoint e SQL Server.
 
 Este projeto cria uma infraestrutura na Azure utilizando Terraform, com os seguintes componentes:
 Virtual Networks(VNets), Subnets, Azure CDN FrontDoor, Service Plan com Web APP, Private EndPoint, Azure SQL Server, Database e Private DNS Azone:
----------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 1 VNet para o Service Plan, recebendo um DNS link para resolução de nomes com uma subnet dedicada ao Web App.
 
