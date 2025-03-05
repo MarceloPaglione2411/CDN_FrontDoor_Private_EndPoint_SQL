@@ -40,5 +40,6 @@ Cenário de Uso:
 
 Uma empresa de e-commerce precisa de uma infraestrutura escalável, segura e de alta disponibilidade para hospedar seu site e gerenciar seu banco de dados. O projeto Terraform proposto é ideal para atender a essa demanda.
 
-:(Imagem_InfraEstrutura.jpg)
 
+
+![imagem do projeto](Imagem_InfraEstrutura.jpg)
