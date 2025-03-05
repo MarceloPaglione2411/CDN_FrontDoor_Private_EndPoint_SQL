@@ -35,6 +35,8 @@ A Private DNS Zone resolve o nome do banco de dados para o IP privado do Private
 Ambiente de Testes:
 As VMs de não produção são usadas para testar novas funcionalidades ou atualizações antes de serem implementadas no ambiente de produção.
 
+: Imagem_InfraEstrutura.jpg
+
 
 Cenário de Uso:
 
