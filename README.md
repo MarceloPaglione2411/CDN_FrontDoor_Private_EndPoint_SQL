@@ -11,7 +11,7 @@ Virtual Networks(VNets), Subnets, Azure CDN FrontDoor, Service Plan com Web APP,
 
 3) Criado 2 SubNets; Para o Private EndPoint e outra para VM de gerenciamento ao banco (SQL Management Studio).
 
-4) SQL Server com 1 database linkados com o Private EndPoint
+4) SQL Server com 1 database e Connection com o Private EndPoint
 
 5) Azure Front Door (CDN): Configurado para gerenciar tráfego e entregar conteúdo de forma global.
 
